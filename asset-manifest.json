@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ConnectApp-FSD/static/css/main.e73ae06d.css",
+    "main.js": "/ConnectApp-FSD/static/js/main.b915f954.js",
+    "index.html": "/ConnectApp-FSD/index.html",
+    "main.e73ae06d.css.map": "/ConnectApp-FSD/static/css/main.e73ae06d.css.map",
+    "main.b915f954.js.map": "/ConnectApp-FSD/static/js/main.b915f954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e73ae06d.css",
+    "static/js/main.b915f954.js"
+  ]
+}
